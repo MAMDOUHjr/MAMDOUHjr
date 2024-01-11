@@ -1,11 +1,14 @@
-### Hi there 👋
+Hi Iam Amr Mamdouh 
+
+![DeveloperGIF](https://github.com/MAMDOUHjr/MAMDOUHjr/assets/115363596/74cff99b-a93d-4dd6-a1b2-48b7e2d8fea3)
 
 <!--
 **MAMDOUHjr/MAMDOUHjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently![Uploading ScalerCreateImpactGIF.gif…]()
+ working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
