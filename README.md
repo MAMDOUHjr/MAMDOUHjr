@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amr Mamdouh</h1>
+<p align="center">
+<img width="70px" src="https://media.tenor.com/Y5bdzjEvcFIAAAAi/kitty-chase-pixel.gif" />
+  
+</p>
 <h3 align="center">Back-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamdouhjr&label=Profile%20views&color=0e75b6&style=flat" alt="mamdouhjr" /> </p>
